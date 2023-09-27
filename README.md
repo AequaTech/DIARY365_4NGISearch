@@ -22,3 +22,4 @@ In this repository we will provide:
 
 ### Other Partners (SuiGeneris)
 * [Oriana Conte](https://www.linkedin.com/in/orianasuigeneris/)
+* [Edizioni SuiGeneris](https://edizionisuigeneris.it/)
