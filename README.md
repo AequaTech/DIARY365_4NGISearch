@@ -19,3 +19,6 @@ In this repository we will provide:
 * [Mirko Lai](http://www.di.unito.it/~lai/)
 * [Simona Frenda](https://www.unito.it/persone/sfrenda)
 * [Alessandra T. Cignarella](https://www.unito.it/persone/acignare)
+
+### Other Partners (SuiGeneris)
+* [Oriana Conte](https://www.linkedin.com/in/orianasuigeneris/)
