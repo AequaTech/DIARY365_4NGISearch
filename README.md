@@ -9,7 +9,7 @@ In this repository we will provide:
 
  
 ## DIARY-365 DEMO:
-* Link: (to appear soon)
+* Link: https://annotazione.didattica.aequa-tech.com/diary/index.html
 
 
 ### Acknowledgements (aequa-tech's members)
