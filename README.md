@@ -16,7 +16,7 @@ Upon acceptance of the DIARY 365 proposal, we will start working on developing a
 * the URL to the site that presents the NGI-funded project and collects the community’s contributions that will be born around it (e.g. new partnerships with other national diaristic archives, museums, etc).
 
  
-## DIARY 365 DEMO:
+## DIARY 365 LANDING PAGE:
 * Link: http://diary365.aequa-tech.com/ 
 
 
