@@ -21,12 +21,13 @@ Upon acceptance of the DIARY 365 proposal, we will start working on developing a
 
 
 ### Acknowledgements (aequa-tech's members)
-* [Marco Stranisci](https://www.unito.it/persone/mstranis)
-* [Alessandra Urbinati](https://www.networkscienceinstitute.org/people/alessandra-urbinati)
+* [Alessandra T. Cignarella](https://www.unito.it/persone/acignare)
 * [Arthur Thomas Edward Capozzi Lupi](https://www.unito.it/persone/acapozzi)
 * [Mirko Lai](http://www.di.unito.it/~lai/)
 * [Simona Frenda](https://www.unito.it/persone/sfrenda)
-* [Alessandra T. Cignarella](https://www.unito.it/persone/acignare)
+* [Marco Stranisci](https://www.unito.it/persone/mstranis)
+* [Alessandra Urbinati](https://www.networkscienceinstitute.org/people/alessandra-urbinati)
+
 
 ### Other Partners (SuiGeneris)
 * [Oriana Conte](https://www.linkedin.com/in/orianasuigeneris/)
