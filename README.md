@@ -1,15 +1,22 @@
-# DIARY-365_4NGISearch
+# DIARY 365 for NGI Search 4th Open Call
 
-In this repository we will provide:
-* the link to the DEMO of the web application, 
-* the NLP (Natural Language Processing) code, models and tools developed by aequa-tech up to present time,
-* the code of the web interface that will be created for DIARY-365,
-* the code of the mobile app that will be created for DIARY-365, 
-* the URL to the site that presents the project and collects the community’s contributions that will be born around it.
+The project is newly initiated, therefore only the proof of concept is visible here. 
+At the moment the repository contains:
+* link to the landing page advertising the DIARY 365 App (https://DIARY365.html); 
+* mock-up pictures of how the App will look on mobile development;
+* code of the web interface that will be created for DIARY 365;
+* slides showing DIARY 365’s business model. 
+
+Upon acceptance of the DIARY 365 proposal, we will start working on developing a Minimum Viable Product (MVP) to develop the App, and we will upload in this repository also the following:
+* the code of the mobile app that will be created for DIARY 365;
+* the NLP model for emotion detection developed by aequa-tech;
+* the NLP model for automatic translation developed by aequa-tech;
+* the excerpt from the digitalized diaries (within the permission of author’s rights);
+* the URL to the site that presents the NGI-funded project and collects the community’s contributions that will be born around it (e.g. new partnerships with other national diaristic archives, museums, etc).
 
  
-## DIARY-365 DEMO:
-* Link: https://annotazione.didattica.aequa-tech.com/diary/index.html
+## DIARY 365 DEMO:
+* Link: http://diary365.aequa-tech.com/ 
 
 
 ### Acknowledgements (aequa-tech's members)
