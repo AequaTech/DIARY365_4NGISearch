@@ -8,6 +8,8 @@ At the moment the repository contains:
 * code of the web interface that will be created for DIARY 365;
 * slides showing DIARY 365’s business model. 
 
+---
+
 Upon acceptance of the DIARY 365 proposal, we will start working on developing a Minimum Viable Product (MVP) to develop the App, and we will upload this repository also with the following:
 * the code of the mobile app that will be created for DIARY 365;
 * the NLP model for emotion detection developed by aequa-tech;
@@ -15,10 +17,12 @@ Upon acceptance of the DIARY 365 proposal, we will start working on developing a
 * the excerpts from the digitalized diaries (within the permission of author’s rights);
 * the URL to the site that presents the NGI-funded project and collects the community’s contributions that will be born around it (e.g. new partnerships with other national diaristic archives, museums, etc).
 
- 
+---
+
 ## DIARY 365 LANDING PAGE:
 * Link: http://diary365.aequa-tech.com/ 
 
+---
 
 ### Acknowledgements (aequa-tech's members)
 * [Alessandra T. Cignarella](https://www.unito.it/persone/acignare)
