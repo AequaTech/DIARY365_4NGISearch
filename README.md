@@ -26,7 +26,7 @@ Upon acceptance of the DIARY 365 proposal, we will start working on developing a
 ---
 
 ### Acknowledgements (aequa-tech's members)
-* [Alessandra T. Cignarella](https://www.unito.it/persone/acignare)
+* [Alessandra Teresa Cignarella](https://www.unito.it/persone/acignare)
 * [Arthur Thomas Edward Capozzi Lupi](https://www.unito.it/persone/acapozzi)
 * [Mirko Lai](http://www.di.unito.it/~lai/)
 * [Simona Frenda](https://www.unito.it/persone/sfrenda)
@@ -34,6 +34,10 @@ Upon acceptance of the DIARY 365 proposal, we will start working on developing a
 * [Alessandra Urbinati](https://www.networkscienceinstitute.org/people/alessandra-urbinati)
 
 
-### Other Partners (SuiGeneris)
+### Team Leader (SuiGeneris)
 * [Oriana Conte](https://www.linkedin.com/in/orianasuigeneris/)
 * [Edizioni SuiGeneris](https://edizionisuigeneris.it/)
+
+### Other collaborations
+* [2i3T - Incubatore di Imprese e per il Trasferimento Tecnologico dell’Università di Torino](https://2i3t.it/2i3t-chi-siamo/)
+* [Arquivo dos Diários](https://www.arquivodosdiarios.pt/)
