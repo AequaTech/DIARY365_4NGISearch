@@ -4,7 +4,7 @@ The project is newly initiated, therefore only the proof of concept is visible h
 
 At the moment the repository contains:
 1. link to the landing page advertising the DIARY 365 App ([https://diary365.aequa-tech.com/](https://diary365.aequa-tech.com/)); 
-2. mock-up pictures of how the App will look on mobile development;
+2. mock-up pictures showing the features of the App (how it will look on mobile);
 3. code of the landing page advertising DIARY 365;
 4. code of the current interactive map of DIARY 365;
 5. slides showing DIARY 365’s business model. 
