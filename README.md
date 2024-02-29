@@ -18,6 +18,9 @@ Upon acceptance of the DIARY 365 proposal, we will start working on developing a
 * the excerpts from the digitalized diaries (within the permission of author’s rights);
 * the URL to the site that presents the NGI-funded project and collects the community’s contributions that will be born around it (e.g. new partnerships with other national diaristic archives, museums, etc).
 
+
+This work is licensed under CC BY 4.0 
+
 ---
 
 ## DIARY 365 LANDING PAGE:
