@@ -1,0 +1,71 @@
+#image1 img {
+    width: 100%;
+}
+#image2 img {
+    width: 100%;
+}
+#image3 {
+    width: 100%;
+}
+
+.text-title{
+    font-size: 3em!important;
+}
+.text-title2{
+    font-size: 2.2em!important;   
+}
+.text-title3{
+    font-size: 1.3em!important;
+}
+.imglogo{
+    max-height: 90px;
+}
+
+.text-click {
+    display:inline-block;
+    color:#444;
+    border:1px solid #CCC;
+    background:#f3f3f3;
+    box-shadow: 0 0 5px -1px rgba(0,0,0,0.2);
+    cursor:pointer;
+}
+.text-click:active {
+    color:#8e2957;
+    box-shadow: 0 0 5px -1px rgba(0,0,0,0.6);
+}
+.text-click:hover {
+    opacity: 0.7;
+    cursor: pointer;
+}
+
+a {
+    all: unset;
+    color: inherit!important; /* blue colors for links too */
+    text-decoration: inherit!important; /* no underline */
+}
+
+.slick-container {
+    max-height: 500px;
+}
+.slick-slide {
+  height: 0px!important;
+ }
+ .slick-slide.slick-active {
+    height: 100% !important;  
+ }
+
+.slick-slide img {
+   height:500px;
+}
+.mkHistory {
+    padding-left: 0!important;
+}
+
+@font-face {
+    font-family: "Mouly";
+    src: url(https://annotazione.didattica.aequa-tech.com/diary/fonts/Mouly.ttf) format("truetype");
+}
+
+.logo{
+/*    font-family: Mouly;*/
+}

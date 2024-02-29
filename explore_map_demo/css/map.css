@@ -1,0 +1,74 @@
+body {
+  background-color: #fff;
+}
+
+.grid{
+  color: red!important;
+}
+
+#pf-timeline {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+}
+
+#pf-timeline .popover {
+  white-space: pre;
+  max-width: none;
+}
+
+.timeline-pf-drop {
+  font-size: 29px!important;
+}
+
+.timeline-pf-drop:hover {
+  font-size: 35px!important;
+}
+
+.form-control {
+  height: 30px!important;
+}
+
+.diaryText {
+  height: 100px;
+  overflow-x:hidden
+}
+#map__container {
+  height: 480px;
+  z-index: 1;
+}
+
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+.land {
+  fill: #000;
+}
+
+.boundary {
+  fill: none;
+  stroke: #fff;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+}
+    .counties {
+      fill: #ff000000;
+    /*  stroke: #fff;
+      stroke-width: .5px;*/
+    }
+    
+    .counties:hover {
+      fill: #ff000029;
+    }
+
+.customMarkerGroup {
+  background-image: url(../images/icons8-libri-50.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+      font-size: 17pt;
+    text-align: right;
+}

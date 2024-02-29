@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/timeline.css">
+	<link rel="stylesheet" href="css/map.css">
+	<link rel="stylesheet" href="css/cards.css">
+	<link rel="stylesheet" href="css/leaflet.css"/>
+	<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.css" /> -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.4.1/MarkerCluster.css" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.0/MarkerCluster.Default.min.css" />
+	<title>Diary 365</title>
+</head>
+<i class="fa-solid fa-book-open-cover"></i>
+<body>
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				<div id="map__container"></div>
+			</div>
+		</div>
+		<div class="row justify-content-center">
+			<div class="timeline__container_divcol">
+				<!-- <svg width="960" height="150" id="timeline__container"></svg> -->
+				<svg id="timeline__container" width="1068" height="150" viewBox="0 0 1024 150" preserveAspectRatio="xMidYMid">
+					<g class="brush"></g>
+					<g class="bars"></g>
+				</svg>
+			</div>
+		</div>
+		<!-- Draggable DIV -->
+		<div id="diary1">
+			<button class="collapsible" id="collapsible1">Diary 1</button>
+			<div class="content" id='divContent1'>
+				<div id="contentDiary1">
+			  		<p>To view information about the diaries, click on a marker on the map.</p>
+				</div>
+			</div>
+		</div>
+		<div id="diary2">
+			<button class="collapsible" id="collapsible2">Diary 2</button>
+			<div class="content" id='divContent1'>
+			  	<div id="contentDiary2">
+			  		<p>To view information about the diaries, click on a marker on the map.</p>
+				</div>
+			</div>
+		</div>
+		<div id="filters">
+			<button class="collapsible" id="collapsibleFilters">Filters</button>
+			<div class="content" id='divContentFilters'>
+			  	<div id="contentFilters">
+					Topic of diary:
+					<select class="filterSelector" id="topic">
+						<option id="apple">All</option>
+						<option id="orange">Vietnam</option>
+						<option id="pineapple">Moon</option>
+						<option id="banana">Intimate</option>
+						<option id="banana">War</option>
+					</select>
+					Emotions in diary:
+					<select class="filterSelector" id="emotions">
+						<option id="apple">All</option>
+						<option id="orange">Hope</option>
+						<option id="orange">Anger</option>
+						<option id="orange">Love</option>
+						<option id="orange">Rebellion</option>
+						<option id="orange">Surprise</option>
+						<option id="orange">Passion</option>
+						<option id="orange">Restlessness</option>
+						<option id="orange">Tenderness</option>
+						<option id="pineapple">Force</option>
+						<option id="pineapple">Fear</option>
+					</select>
+					Age of the writer:
+					<select class="filterSelector" id="age_range">
+						<option id="apple">All</option>
+						<option id="orange">0-14</option>
+						<option id="pineapple">22-39</option>
+						<option id="banana">40-59</option>
+						<option id="banana">60-75</option>
+					</select>
+					Gender of the writer:
+					<select class="filterSelector" id="gender">
+						<option id="apple">All</option>
+						<option id="orange">Male</option>
+						<option id="pineapple">Female</option>
+						<option id="banana">Unkown</option>
+					</select>
+					<div class="btn-group">
+						<a id="apply_filter" class="btn btn-default">Apply filters</a>
+						<a id="reset_filter" class="btn btn-default">Reset filters</a>
+					</div>
+					<!-- <a id="reset_timeline" class="btn btn-default">Reset timeline</a> -->
+				</div>
+			</div>
+		</div>
+		<div id="reset_brush_container">
+			<a id="reset_brush" class="btn btn-default">Reset<br>selection</a>
+		</div>
+	</div>
+</body>
+
+<script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.11.0/js/bootstrap-select.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.4/js/bootstrap-datepicker.min.js"></script>
+<!-- <script src="https://d3js.org/d3.v4.min.js"></script> -->
+<script src="https://d3js.org/d3.v5.min.js"></script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/c3/0.4.11/c3.min.js"></script>
+<!-- <script src="js/timeline.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/patternfly/3.9.0/js/patternfly.min.js"></script> -->
+<script src="js/leaflet.js"></script>
+<script type='text/javascript' src='js/markercluster.js'></script>
+
+
+<!-- external file containing json object for data -->
+
+<script src="//d3js.org/topojson.v1.min.js"></script>
+<script src="js/plot2.js"></script>
+<script src="js/map2.js"></script>
+<!-- <script src="js/plot.js"></script> -->
+<script src="js/cards.js"></script>
+</html>

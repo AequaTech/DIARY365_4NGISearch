@@ -1,0 +1,133 @@
+@import url('https://fonts.cdnfonts.com/css/mouly');
+
+#image1 img {
+    width: 100%;
+}
+#image2 img {
+    width: 100%;
+}
+#image3 {
+    width: 100%;
+}
+
+.text-title{
+    font-size: 3em!important;
+}
+.text-title2{
+    font-size: 2.2em!important;   
+}
+.text-title3{
+    font-size: 1.3em!important;
+}
+.imglogoA{
+    max-width: 50%;
+}
+.imglogoS{
+    max-width: 23%;
+}
+.imglogo{
+    max-width: 50%;
+    max-height: 19%;
+    height: auto;
+}
+.applogo:hover{
+    opacity: 50$;
+}
+.imgDiary{
+    max-height: 23%;    
+    height: auto;
+}
+
+.text-click {
+    display:inline-block;
+    color:#444;
+    border:1px solid #CCC;
+    background:#f3f3f3;
+    box-shadow: 0 0 5px -1px rgba(0,0,0,0.2);
+    cursor:pointer;
+}
+.text-click:active {
+    color:#8e2957;
+    box-shadow: 0 0 5px -1px rgba(0,0,0,0.6);
+}
+.applogo:hover {
+    opacity: 0.7;
+    cursor: pointer;
+}
+
+a {
+    all: unset;
+    color: inherit!important; /* blue colors for links too */
+    text-decoration: inherit!important; /* no underline */
+}
+
+.mkHistory {
+    padding-left: 0!important;
+}
+/*.slick-list{padding:0 20% 0 0 !important;}*/
+
+/*@font-face {
+    font-family: "Mouly";
+    src: url(localhost:9000/demo3/fonts/Mouly.ttf);
+}
+*/
+.logo{
+/*    font-family: 'Mouly', sans-serif;*/
+    font-size: 1.9em !important;
+}
+
+/*.slick-container {
+      height:80%;
+
+   max-height: 100px;
+}*/
+
+.slick-dots {
+    font-size: 2em;
+}
+.slick-active a {
+/*    background: red;*/
+    color: black;
+        font-size: 2em;
+}
+
+.slick-dots li.slick-active button:before {
+    color: #8e2957 !important;
+}
+
+.slick-dots li button:before
+{
+    font-size: 20px !important;
+    line-height: 20px !important;
+}
+
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+
+.slick-prev,
+.slick-next{
+    z-index: 1000;
+    top: 105% !important;
+}
+.slick-prev {
+  left: 21% !important;
+}
+.slick-next {
+  right: 21% !important;
+}
+.slick-prev:before,
+.slick-next:before
+{
+  font-family: 'slick';
+  font-size: 42px !important;
+  line-height: 1;
+
+  opacity: .75;
+  color: #8e2957 !important;
+/*  background-color: black;*/
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
